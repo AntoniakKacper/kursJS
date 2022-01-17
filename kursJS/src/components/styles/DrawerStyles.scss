@@ -1,0 +1,19 @@
+.course {
+  padding-right: 10px;
+
+  &-start {
+    color: #9c27b0;
+  }
+
+  &-done {
+    color: green;
+  }
+
+  &-unavailable {
+    color: red;
+  }
+
+  &-unlocked {
+    color: blue;
+  }
+}
